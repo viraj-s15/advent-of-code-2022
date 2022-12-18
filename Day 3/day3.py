@@ -1,6 +1,6 @@
 from string import ascii_letters
 
-filename = "/home/veer/Documents/advent-of-code/Day 3/input.in"
+filename = "Day 3/input.in"
 
 data = open(filename).read().split('\n')
 priority_map = {}
