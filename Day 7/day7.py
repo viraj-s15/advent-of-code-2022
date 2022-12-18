@@ -1,4 +1,4 @@
-filename = "/home/veer/Documents/advent-of-code/Day 7/input.in"
+filename = "Day 7/input.in"
 data = [data.strip() for data in open(filename).readlines()]
 
 path = "/home"
