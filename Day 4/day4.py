@@ -1,4 +1,4 @@
-filename = "/home/veer/Documents/advent-of-code/Day 4/input.in"
+filename = "Day 4/input.in"
 
 data = open(filename, "r").read().split("\n")
 
