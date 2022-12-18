@@ -1,7 +1,7 @@
 from collections import Counter
 
 
-filename = "/home/veer/Documents/advent-of-code/Day 6/input.in"
+filename = "Day 6/input.in"
 
 data = open(filename).read()
 
