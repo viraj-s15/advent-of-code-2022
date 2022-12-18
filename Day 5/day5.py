@@ -1,4 +1,4 @@
-filename = "/home/veer/Documents/advent-of-code/Day 5/input.in"
+filename = "Day 5/input.in"
 
 with open(filename) as f:
     stacks, instructions = (i.splitlines() for i in f.read().strip("\n").split("\n\n"))
