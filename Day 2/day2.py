@@ -1,5 +1,5 @@
 
-file_path = "/home/veer/Documents/advent-of-code/Day 2/input.in"
+file_path = "Day 2/input.in"
 
 array = []
 
