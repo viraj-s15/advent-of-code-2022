@@ -1,4 +1,4 @@
-file_path = '/home/veer/Documents/advent-of-code/Day 1/input.in'
+file_path = 'Day 1/input.in'
 
 data_set = open(file_path, "r").read().split("\n\n")
 maximum_cal = 0
