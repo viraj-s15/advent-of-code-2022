@@ -1,4 +1,4 @@
-filename = "/home/veer/Documents/advent-of-code/Day 8/input.in"
+filename = "Day 8/input.in"
 
 
 data_list = [list(map(int,i)) for i in open(filename).read().splitlines()]
